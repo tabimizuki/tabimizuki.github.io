@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: 天園ハイキングコース
 published: true
 ---
-# 天園ハイキングコース
-
 北鎌倉駅から天園ハイキングコースへ行った。
 
 帰りは鎌倉駅まで歩いた。
